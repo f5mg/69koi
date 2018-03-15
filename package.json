@@ -1,0 +1,20 @@
+{
+  "name": "GRUNT",
+  "version": "1.0.0",
+  "private": true,
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
